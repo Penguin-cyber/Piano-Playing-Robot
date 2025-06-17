@@ -34,3 +34,12 @@ Today, I worked on finishing the PCB. Again, I aimed to optimize the size of the
 ![image](https://github.com/user-attachments/assets/b75618a9-2299-4cc6-899a-4085b383db84)
 
 **Total time spent: 6h**
+
+# June 16: Finished drafting the profiles of the arm
+
+Today, I worked on finishing the PCB. Again, I aimed to optimize the size of the board, since that was the primary motivation for designing it in the first place. I managed to get the board down to 11mm x 49.5mm, which, in my opinion, is a good size. After finishing up everything (which took a while because I was relearning some more KiCad stuff), I started drafting ideas for how to actuate the pivot. I came to the conclusion that the pivot should be a dead axle which has a tooth profile on the outside. This way I can drive it with precision, and this would work especially well since the range of motion is rather limited, ~45 degrees.
+
+![image](https://github.com/user-attachments/assets/5bc5c8be-2253-42c0-af8d-14ed29e630b2)
+
+
+**Total time spent: 6h**
