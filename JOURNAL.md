@@ -35,11 +35,11 @@ Today, I worked on finishing the PCB. Again, I aimed to optimize the size of the
 
 **Total time spent: 6h**
 
-# June 16: Finished drafting the profiles of the arm
+# June 16: Finished drafting the profiles of the arm & started designing the pulley
 
-Today, I worked on finishing the PCB. Again, I aimed to optimize the size of the board, since that was the primary motivation for designing it in the first place. I managed to get the board down to 11mm x 49.5mm, which, in my opinion, is a good size. After finishing up everything (which took a while because I was relearning some more KiCad stuff), I started drafting ideas for how to actuate the pivot. I came to the conclusion that the pivot should be a dead axle which has a tooth profile on the outside. This way I can drive it with precision, and this would work especially well since the range of motion is rather limited, ~45 degrees.
+Today, I worked on the profiles of the arm. I have the layout complete now, and all that is left is to actually make the parts for the arm. I will add mounting holes onto the outside flange and I may change the height of the arm. I also started designing a ratcheting pulley, which would be incredibly useful. I have the general design for it finished, and simply need to start cadding it. Again, all of the logic and main decision-making is outlined in my document on the Google Drive. The majority of the time was spent on drafting and thinking, and not so much on actual cad.
 
 ![image](https://github.com/user-attachments/assets/5bc5c8be-2253-42c0-af8d-14ed29e630b2)
 
 
-**Total time spent: 6h**
+**Total time spent: 8h**
