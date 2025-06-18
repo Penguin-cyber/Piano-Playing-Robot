@@ -43,3 +43,12 @@ Today, I worked on the profiles of the arm. I have the layout complete now, and 
 
 
 **Total time spent: 8h**
+
+# June 16: Cadding pulley
+
+Today, I worked on cadding the pulley. I mapped out the mastermodel for the pulley, and all that is left is to extrude the pieces. I have already extruded and made the bottom piece, only the top remains. After this is done, I will extrude parts on the arm to create the arm. Most of the time spent today was on figuring out the precise placement of features within the pulley. This was primarily deciding on tolerances and clearances, as well as figuring out what the ratchet profile should look like.
+
+![image](https://github.com/user-attachments/assets/58b6c786-c8f6-425c-b363-1e2d353472fd)
+![image](https://github.com/user-attachments/assets/dfc3b863-40b9-4c94-be74-ac69d5588341)
+
+**Total time spent: 10h**
