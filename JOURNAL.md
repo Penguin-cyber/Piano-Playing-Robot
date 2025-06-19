@@ -52,3 +52,14 @@ Today, I worked on cadding the pulley. I mapped out the mastermodel for the pull
 ![image](https://github.com/user-attachments/assets/dfc3b863-40b9-4c94-be74-ac69d5588341)
 
 **Total time spent: 10h**
+
+# June 16: Cadding pulley cont. and tendons
+
+Today, I finished cadding the pulley by extruding the top half and creating the assembly. After finishing, I pulled those dimensions into the main mastermodel for the forearm, defining the desired height of the arm to encase the pulleys. After doing so, I created a block for the servo with the pulley, to help me map out the tendons. The tendons were then routed, with the supporting structure created. I will work on extruding the parts of the arm, and putting finishing touches on the design. There were no major design decisions made today, just simple tolerancing and clearances.
+
+![image](https://github.com/user-attachments/assets/daf9244f-99cc-4e74-882c-78f26a99c083)
+![image](https://github.com/user-attachments/assets/c45f7803-0b67-432a-b778-371ad756b947)
+![image](https://github.com/user-attachments/assets/f0b4ae17-304e-4f24-8d18-2a1e55686434)
+
+**Total time spent: 15h**
+
