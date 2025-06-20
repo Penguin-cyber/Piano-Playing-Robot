@@ -70,5 +70,13 @@ Today, I extruded the parts of the arm and refined a bit of the design. Naturall
 ![image](https://github.com/user-attachments/assets/30cd9d10-9a5f-4f10-b101-21f32eea93c1)
 ![image](https://github.com/user-attachments/assets/9e60b94c-6ba1-4113-84b0-da294ade1f9f)
 
-
 **Total time spent: 19h**
+
+# June 19: Creating forearm assembly and main assembly
+
+Today, I created the assemblies for the forearm and the main assembly. This was primarily to set up the calculations I will do tomorrow to determine the reduction necessary in my gearbox. I also created a PLA material in SolidWorks to better match real life, so my math is more accurate. 
+
+![image](https://github.com/user-attachments/assets/2045e586-b537-4750-b41b-75421f2c29b5)
+![image](https://github.com/user-attachments/assets/b7e1df36-3af1-4300-9128-98d04e1513bc)
+
+**Total time spent: 21h**
