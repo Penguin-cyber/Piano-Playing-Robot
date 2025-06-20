@@ -63,3 +63,12 @@ Today, I finished cadding the pulley by extruding the top half and creating the 
 
 **Total time spent: 15h**
 
+# June 16: Cadding pulley cont. and tendons
+
+Today, I extruded the parts of the arm and refined a bit of the design. Naturally, as things are extruded and designed, small adjustments are made where things don't work exactly as envisioned. For example, I tweeked the general shape of the forearm such that the holes for the PTFE lined up correctly. The tendons' paths were updated to ensure that the holes pierced the correct sections. The assembly for the forearm will be completed next.
+
+![image](https://github.com/user-attachments/assets/30cd9d10-9a5f-4f10-b101-21f32eea93c1)
+![image](https://github.com/user-attachments/assets/9e60b94c-6ba1-4113-84b0-da294ade1f9f)
+
+
+**Total time spent: 15h**
