@@ -44,7 +44,7 @@ Today, I worked on the profiles of the arm. I have the layout complete now, and 
 
 **Total time spent: 8h**
 
-# June 16: Cadding pulley
+# June 17: Cadding pulley
 
 Today, I worked on cadding the pulley. I mapped out the mastermodel for the pulley, and all that is left is to extrude the pieces. I have already extruded and made the bottom piece, only the top remains. After this is done, I will extrude parts on the arm to create the arm. Most of the time spent today was on figuring out the precise placement of features within the pulley. This was primarily deciding on tolerances and clearances, as well as figuring out what the ratchet profile should look like.
 
@@ -53,7 +53,7 @@ Today, I worked on cadding the pulley. I mapped out the mastermodel for the pull
 
 **Total time spent: 10h**
 
-# June 16: Cadding pulley cont. and tendons
+# June 18: Cadding pulley cont. and tendons
 
 Today, I finished cadding the pulley by extruding the top half and creating the assembly. After finishing, I pulled those dimensions into the main mastermodel for the forearm, defining the desired height of the arm to encase the pulleys. After doing so, I created a block for the servo with the pulley, to help me map out the tendons. The tendons were then routed, with the supporting structure created. I will work on extruding the parts of the arm, and putting finishing touches on the design. There were no major design decisions made today, just simple tolerancing and clearances.
 
@@ -63,7 +63,7 @@ Today, I finished cadding the pulley by extruding the top half and creating the 
 
 **Total time spent: 15h**
 
-# June 17: Cadding forearm
+# June 19: Cadding forearm
 
 Today, I extruded the parts of the arm and refined a bit of the design. Naturally, as things are extruded and designed, small adjustments are made where things don't work exactly as envisioned. For example, I tweeked the general shape of the forearm such that the holes for the PTFE lined up correctly. The tendons' paths were updated to ensure that the holes pierced the correct sections. The assembly for the forearm will be completed next.
 
