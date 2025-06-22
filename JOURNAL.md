@@ -80,3 +80,21 @@ Today, I created the assemblies for the forearm and the main assembly. This was 
 ![image](https://github.com/user-attachments/assets/b7e1df36-3af1-4300-9128-98d04e1513bc)
 
 **Total time spent: 21h**
+
+# June 19: Creating forearm assembly and main assembly
+
+Today, I created the ratios for the pivot gearbox
+
+After running some calculations based on SolidWorks’s data, I was able to calculate the torque required to pivot the arm. The calculations are shown below. Notably, I included a safety factor (x2) to ensure that nothing breaks–I would rather have a slower arm than an arm that cannot pivot. This is possible because the pivot is not required to have an extensive range of motion; so long as it operates within its range of motion at a reasonable speed, it will suffice.
+
+As a note, I created my own custom PLA material in SolidWorks to ensure greater mass accuracy. Although it should be noted that the 3D prints will not be 100% infill, meaning that the mass given by SolidWorks will serve as an overestimate, which helps ensure that the gearbox will be more than adequately prepared to handle the torques.
+
+Ultimately, I decided on a two-stage gearbox: 18T:54T (1:3) stage and an 18T:60T (3:10) stage. The relatively similar reductions ensure that the gears experience wear equally and that the packaging is optimized (since the gears are of similar sizes).
+
+After adding a 20DP 60T gear to the arm (at 100% infill), the mass increased, and the center of mass (COM) distance from the pivot decreased. Ultimately, the new required torque stayed within the safety tolerance I had set.
+
+Based on my experience, I ensured that I used the rated torque and moving torque of the servo motor. This will mitigate any substantial wear or damage to the servos.
+
+![image](https://github.com/user-attachments/assets/d7bdec46-d9c0-402f-808c-132af56269cd)
+
+**Total time spent: 25h**
