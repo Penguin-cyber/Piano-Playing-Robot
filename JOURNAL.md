@@ -72,7 +72,7 @@ Today, I extruded the parts of the arm and refined a bit of the design. Naturall
 
 **Total time spent: 19h**
 
-# June 19: Creating forearm assembly and main assembly
+# June 20: Creating forearm assembly and main assembly
 
 Today, I created the assemblies for the forearm and the main assembly. This was primarily to set up the calculations I will do tomorrow to determine the reduction necessary in my gearbox. I also created a PLA material in SolidWorks to better match real life, so my math is more accurate. 
 
@@ -81,13 +81,11 @@ Today, I created the assemblies for the forearm and the main assembly. This was 
 
 **Total time spent: 21h**
 
-# June 19: Creating forearm assembly and main assembly
+# June 21: Creating forearm assembly and main assembly
 
 Today, I created the ratios for the pivot gearbox
 
 After running some calculations based on SolidWorks’s data, I was able to calculate the torque required to pivot the arm. The calculations are shown below. Notably, I included a safety factor (x2) to ensure that nothing breaks–I would rather have a slower arm than an arm that cannot pivot. This is possible because the pivot is not required to have an extensive range of motion; so long as it operates within its range of motion at a reasonable speed, it will suffice.
-
-As a note, I created my own custom PLA material in SolidWorks to ensure greater mass accuracy. Although it should be noted that the 3D prints will not be 100% infill, meaning that the mass given by SolidWorks will serve as an overestimate, which helps ensure that the gearbox will be more than adequately prepared to handle the torques.
 
 Ultimately, I decided on a two-stage gearbox: 18T:54T (1:3) stage and an 18T:60T (3:10) stage. The relatively similar reductions ensure that the gears experience wear equally and that the packaging is optimized (since the gears are of similar sizes).
 
