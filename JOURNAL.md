@@ -81,7 +81,7 @@ Today, I created the assemblies for the forearm and the main assembly. This was 
 
 **Total time spent: 21h**
 
-# June 21: Creating forearm assembly and main assembly
+# June 21: Designing the pivot gearbox
 
 Today, I created the ratios for the pivot gearbox
 
@@ -96,3 +96,25 @@ Based on my experience, I ensured that I used the rated torque and moving torque
 ![image](https://github.com/user-attachments/assets/d7bdec46-d9c0-402f-808c-132af56269cd)
 
 **Total time spent: 25h**
+
+# June 23: Base arm and lienar slide actuation
+
+Today, I looked at how I might actuate the lateral movement of the arm and generally how the base of the arm might look. I think I will go with a linear slide in tandem with a pulley system. This is documented on my document, but essentially it involves a spool on a servo that is connected to two sets of string. Both strings will have enough length to span the linear slide, and when the servo turns in one direction, the strings will spool or despool correspondingly, pulling the chassis to the respective ends of the slide. I will flesh this out further after adding the arm, since a gearbox may need to be included depending on the torque required.
+
+![image](https://github.com/user-attachments/assets/0d2ac032-7442-441c-a735-2611c325f0c5)
+
+**Total time spent: 29h**
+
+# June 24: Gearbox and base arm cad
+
+Today, sketched out what the gearbox may look like. I made sure to include areas for bearings and mounting since it's pretty easy to forget those. I also ensured that there was no interference between stages.
+
+Another thing I tackled was the general layout of the control boards. namely the FE-URT-1 and NANO ESP32 boards that will be used.
+
+Furthermore, I dealt with holes for wiring, which I may update to include areas for zipties, since the wires may be passing through the gearbox. The last thing I want is to have the wires stuck on the gears and just destroyed, so I may just do that. Most of the work today was just on cadding and specifying areas.
+
+An area I struggled with was the gearbox. Since I decided on using dead axles for the gearbox, I would need to put the gears on bearings; however, this would cause an interference problem with the gears. Hence I decided to include spacers and widen the base of the arm to match the new spacing.
+
+![image](https://github.com/user-attachments/assets/83c557e4-c3fa-4e2e-90d5-28a397aac3e5)
+
+**Total time spent: 35h**
