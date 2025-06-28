@@ -137,6 +137,6 @@ As such, the battery I have chosen is Zeee 2S 5200mAh Lipo Battery 7.4V 50C. Its
 
 These changes were reflected in the base arm sketches.
 
-![image](https://github.com/user-attachments/assets/e99162a6-faf5-4ec0-8f9b-da60f9fdf74d)
+![image](https://github.com/user-attachments/assets/3c58090d-ac61-4cb1-b024-2e45e7616bbc)
 
 **Total time spent: 38h**
