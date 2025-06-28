@@ -118,3 +118,25 @@ An area I struggled with was the gearbox. Since I decided on using dead axles fo
 ![image](https://github.com/user-attachments/assets/83c557e4-c3fa-4e2e-90d5-28a397aac3e5)
 
 **Total time spent: 35h**
+
+# June 27: Power considerations and base arm changes
+
+Today, started thinking more about the power.
+
+According to my current configuration, the power consumption will resemble this.
+
+![image](https://github.com/user-attachments/assets/6130eeae-1c71-4cd2-a479-792cf7534bdb)
+
+All of the data for the table was collected from datasheets. The current ratings of the servo motors were specified in terms of the rated current, as the torque calculations were based on the rated torque.
+
+Since the total typical current is expected to be 6700 mA–6400 mA for the servos alone, I will add FE-URT-1. This is because the screw terminals on the FE-URT-1 have a maximum current rating of 6A. Hence, I will separate the SCS0009 servos and the SCS15 servos into two different FE-URT-1 boards. These will be powered by the same power source in parallel and connect to the Nano ESP32 board’s RX and TX in parallel.
+
+Since some RC cars are commonly powered by the cumulative voltage range (6 - 7.4V), I will be using a 2S LiPo battery. These batteries are rated at 7.4 volts and are rechargeable, making them compatible with my purposes. Ideally, the battery would last for about an hour, meaning it would need a capacity of about 6700mAh. Moreover, it would be able to safely and continuously discharge 18 600 mA (18.6 A).
+
+As such, the battery I have chosen is Zeee 2S 5200mAh Lipo Battery 7.4V 50C. Its capacity is approximately 46 minutes (at the rated current), and it can supply a maximum of 260 A, well above the peak current of the circuit.
+
+These changes were reflected in the base arm sketches.
+
+![image](https://github.com/user-attachments/assets/e99162a6-faf5-4ec0-8f9b-da60f9fdf74d)
+
+**Total time spent: 38h**
