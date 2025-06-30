@@ -121,7 +121,7 @@ An area I struggled with was the gearbox. Since I decided on using dead axles fo
 
 # June 27: Power considerations and base arm changes
 
-Today, started thinking more about the power.
+Today, I started thinking more about the power.
 
 According to my current configuration, the power consumption will resemble this.
 
@@ -140,3 +140,20 @@ These changes were reflected in the base arm sketches.
 ![image](https://github.com/user-attachments/assets/3c58090d-ac61-4cb1-b024-2e45e7616bbc)
 
 **Total time spent: 38h**
+
+# June 29: Extrusion and changes
+
+Today, I started extruding parts of the base arm, which will help me when determining the strength of my linear slide.
+
+As I was extruding, many problems came to light. For example, I realized that I had not really thought about the mounting of the various boards and motors. Hence, a lot of time was spent on figuring that out.
+
+![image](https://github.com/user-attachments/assets/e3ee0cc9-45ed-4039-9aff-520b6284cc15)
+![image](https://github.com/user-attachments/assets/f034157e-77c9-438d-b68b-a618eb9b5020)
+
+While extruding the gears, I realized that it would be almost impossible to 3D-print, meaning I had to redesign the gear so that it would be easily printed. To fix it, I had to reconsider the ordering of the gears, and ultimately settled on an assymetrical design, with the gear stages distinct and separate, as opposed to a "sandwich." 
+
+Another thing I had to figure out was how to incorporate a bearing on the side with the smaller gear, which on its own would be unable to hold a bearing. Hence, I designed an extra spacer section that would be able to house the bearing, ensuring greater stability for the gear.
+
+![image](https://github.com/user-attachments/assets/21057cfb-4e72-44c5-9c67-25bd9f380814)
+
+**Total time spent: 45h**
