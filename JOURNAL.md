@@ -158,7 +158,7 @@ Another thing I had to figure out was how to incorporate a bearing on the side w
 
 **Total time spent: 45h**
 
-# June 29: Finishing assembly and updating main assembly
+# July 3: Finishing assembly and updating main assembly
 
 I worked on the assembly, making sure that I have the mass of the entire system before deciding on the rail and actuation of the rail. I created custom parts in Solidworks to ensure that all the masses are accurate, like the FE-URT-1 control board, or the LiPo battery. 
 
