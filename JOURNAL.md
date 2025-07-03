@@ -160,8 +160,14 @@ Another thing I had to figure out was how to incorporate a bearing on the side w
 
 # June 29: Finishing assembly and updating main assembly
 
-I worked on the assembly, making sure that I have the mass of the entire system before deciding on the rail and actuation of the rail. I created custom parts
+I worked on the assembly, making sure that I have the mass of the entire system before deciding on the rail and actuation of the rail. I created custom parts in Solidworks to ensure that all the masses are accurate, like the FE-URT-1 control board, or the LiPo battery. 
 
 ![image](https://github.com/user-attachments/assets/f5439228-a48e-4f49-9bf9-48397cdf952a)
+![image](https://github.com/user-attachments/assets/150652b0-f3b7-4b65-b0e5-23d09ff753ec)
 
-**Total time spent: 45h**
+I also made the 60T gear a separate part that can be attached by bolts. This way, the forearm’s printing will be far easier and stronger.
+
+![image](https://github.com/user-attachments/assets/d29890eb-82d7-4963-b1b3-2b2fc7260f04)
+
+
+**Total time spent: 51h**
