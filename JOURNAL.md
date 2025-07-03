@@ -157,3 +157,11 @@ Another thing I had to figure out was how to incorporate a bearing on the side w
 ![image](https://github.com/user-attachments/assets/21057cfb-4e72-44c5-9c67-25bd9f380814)
 
 **Total time spent: 45h**
+
+# June 29: Finishing assembly and updating main assembly
+
+I worked on the assembly, making sure that I have the mass of the entire system before deciding on the rail and actuation of the rail. I created custom parts
+
+![image](https://github.com/user-attachments/assets/f5439228-a48e-4f49-9bf9-48397cdf952a)
+
+**Total time spent: 45h**
