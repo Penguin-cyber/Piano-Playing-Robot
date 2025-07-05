@@ -171,7 +171,7 @@ I also made the 60T gear a separate part that can be attached by bolts. This way
 
 **Total time spent: 51h**
 
-# July 3: Determining slide and pulley size
+# July 4: Determining slide and pulley size
 
 For my purposes, I will be purchasing a linear slide from igus. This is because they provide a CAD file for the linear slide I chose, which will be incredibly useful. Moreover, their slides are easily configurable according to my requirements using their digital configuration tool: https://drylin-linear-guide-expert.igus.tools/requirements?l=en&c=CA.
 
