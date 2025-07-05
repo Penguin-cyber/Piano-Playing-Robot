@@ -169,5 +169,22 @@ I also made the 60T gear a separate part that can be attached by bolts. This way
 
 ![image](https://github.com/user-attachments/assets/d29890eb-82d7-4963-b1b3-2b2fc7260f04)
 
-
 **Total time spent: 51h**
+
+# July 3: Determining slide and pulley size
+
+For my purposes, I will be purchasing a linear slide from igus. This is because they provide a CAD file for the linear slide I chose, which will be incredibly useful. Moreover, their slides are easily configurable according to my requirements using their digital configuration tool: https://drylin-linear-guide-expert.igus.tools/requirements?l=en&c=CA.
+
+While my initial requirements involved being able to play keys within a range of two octaves, igus does not sell a linear slide of that length (330mm). Hence, I will opt instead for a linear slide that enables the system to play half of the keys on the keyboard; in other words, the length of the slide should be ~612.85mm. This value will be rounded down to 501mm (the minimum rail length), since the hand itself is wide enough to enable the system to play all the keys on the piano.
+
+![image](https://github.com/user-attachments/assets/44440fe0-1928-426f-93f8-e26423668c72)
+
+All of these calculations are under the assumption that an octave is approximately 165mm (which is standard for pianos).
+
+Under the assumption that drylin® W pillow block WJ200QM-01s will be used, which have a coefficient of friction of about 0.05. With the system’s mass being 3713.42g, which will be rounded up to 8000g (approximately twice the original value), the friction force will be approximately 4N. 
+
+![image](https://github.com/user-attachments/assets/7347afd4-bd95-4cdb-89f6-023af0cef8f8)
+
+Hence, with a pulley of OD 3cm, the system will reach an acceleration of approximately 3.75 ms^-2, which will be more than adequate. High acceleration is essential for this project, so I will try to keep the pulley OD as small as possible to increase the acceleration of the system.
+
+**Total time spent: 55h**
