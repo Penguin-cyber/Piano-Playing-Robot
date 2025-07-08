@@ -188,3 +188,18 @@ Under the assumption that drylin® W pillow block WJ200QM-01s will be used, whic
 Hence, with a pulley of OD 3cm, the system will reach an acceleration of approximately 3.75 ms^-2, which will be more than adequate. High acceleration is essential for this project, so I will try to keep the pulley OD as small as possible to increase the acceleration of the system.
 
 **Total time spent: 55h**
+
+# July 7: Linear slide CAD, creating double pulley, and testing servos
+
+Today I worked on the above. I added the rail and bearings into the CAD, as well as the corresponding mounting holes for the arm. With this, I created the double pulley that I will use for actuating the linear slide.
+
+![image](https://github.com/user-attachments/assets/7eccecf6-77c3-4d74-ac19-8107d4e78950)
+![image](https://github.com/user-attachments/assets/fc4a882c-0d70-43e3-95d0-4019251c223d)
+
+I also updated the hand CAD to utilize the board I had created, simplifying wiring.
+
+![image](https://github.com/user-attachments/assets/72aa1c15-549b-4b5d-8217-fd8881c3c3bd)
+
+Finally, I did some testing with the servos I had already purchased, just testinng to make sure that there's no faulty hardware and that the ids work (since that is something new to me with serial bus servos). Ultimately, I was able to get it working, so I can proceed with my designs with more confidence. All that's left is to create the structure that the pulley pulls on, and I can begin creating the project.
+
+**Total time spent: 60h**
