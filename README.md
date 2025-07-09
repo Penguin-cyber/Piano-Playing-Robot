@@ -1,5 +1,5 @@
 # Introduction
-There are many interesting ways robotic hands could be useful to pianists. Although there are methods by which the piano can be played autonomously, these methods do not involve anthropomorphism.
+As someone who grew up playing the piano, I sometimes wish I could learn it more easily. Specifically, sometimes it would be helpful to have a physical example of how to play specific passages, even without a teacher. Hence, I came up with this idea. There are many interesting ways robotic hands could be helpful to pianists. Although there are methods by which the piano can be played autonomously, these methods do not involve anthropomorphism.
 
 Anthropomorphic robotic hands would provide an accurate reference that pianists
 could use when learning various pieces. They would provide excellent utility for pianists
