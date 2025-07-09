@@ -1,4 +1,4 @@
-#Bill of Materials
+**Bill of Materials**
 | PART	| QTY. |
 | --------- | --- |
 | 608 - 2RS Bearing| 28|
