@@ -1,4 +1,4 @@
-ITEM | NO.	| PART	| QTY.
+| ITEM | NO.	| PART	| QTY. |
 1	608 - 2RS Bearing	28
 2	3mm OD x 18mm pin	39
 3	FeeTech Servo SCS15	3
