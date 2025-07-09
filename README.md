@@ -10,6 +10,20 @@ Another point is that anthropomorphic robotic hands could serve as a remote mean
 
 *Importantly, this project does not intend to replace human pianists. It simply serves as an aid for them to improve and dive deeper into their craft.*
 
+# Images
+
+![image](https://github.com/user-attachments/assets/7a2bcd26-b053-459e-8cd6-87538693d182)
+
+## Hand
+![image](https://github.com/user-attachments/assets/c7640b51-b50f-4609-b559-296ee53539b7)
+![image](https://github.com/user-attachments/assets/509bbb1e-1c3b-46e9-b776-934ec8203602)
+
+## Forearm
+
+![image](https://github.com/user-attachments/assets/53cdd5b3-a1ba-418d-9cb7-94de94bf8368)
+![image](https://github.com/user-attachments/assets/f97cc00b-d4e1-4ca1-8770-5abc52175d1b)
+
+
 # Bill of Materials
 | PART	| QTY. |
 | --------- | --- |
