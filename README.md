@@ -1,10 +1,6 @@
 # Introduction
-
-Hence, the goal of this paper is to address the use of anthropomorphic robotic hands
-in a creative field: music. Specifically, the plausibility of using anthropomorphic robotic
-hands to play music on a piano is highlighted. Although there are methods for which the
+There are many interesting ways robotic hands could be useful to pianists. Although there are methods for which the
 piano can be played autonomously, these methods do not involve anthropomorphism.
-
 Anthropomorphic robotic hands would provide an accurate reference that pianists
 could use when learning various pieces. They would provide excellent utility for pianists
 who wish to understand the technique and form required for challenging passages. Thus,
