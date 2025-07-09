@@ -39,6 +39,10 @@ Another point is that anthropomorphic robotic hands could serve as a remote mean
 ![image](https://github.com/user-attachments/assets/2eebab86-f8f9-4c97-bdb2-af16897a103d)
 ![image](https://github.com/user-attachments/assets/0970ebeb-58ac-4aa5-a027-cd8c088fdf18)
 
+## Custom JST adapter board
+
+![image](https://github.com/user-attachments/assets/1e34fa47-89a1-4664-87b1-07b0407b54d6)
+![image](https://github.com/user-attachments/assets/5f269cc5-8e03-447d-8af0-75b2369c39ea)
 
 # Bill of Materials
 | PART	| QTY. |
