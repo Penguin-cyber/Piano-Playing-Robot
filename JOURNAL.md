@@ -188,7 +188,7 @@ Hence, with a pulley of OD 3cm, the system will reach an acceleration of approxi
 
 **Time spent: 4h**
 
-# July 7: Linear slide CAD, creating double pulley, and testing servos
+# July 7: Linear slide CAD, creating double pulley
 
 Today I worked on the above. I added the rail and bearings into the CAD, as well as the corresponding mounting holes for the arm. With this, I created the double pulley that I will use for actuating the linear slide.
 
@@ -199,7 +199,7 @@ I also updated the hand CAD to utilize the board I had created, simplifying wiri
 
 ![image](https://github.com/user-attachments/assets/72aa1c15-549b-4b5d-8217-fd8881c3c3bd)
 
-Finally, I did some testing with the servos I had already purchased, just testinng to make sure that there's no faulty hardware and that the ids work (since that is something new to me with serial bus servos). Ultimately, I was able to get it working, so I can proceed with my designs with more confidence. All that's left is to create the structure that the pulley pulls on, and I can begin creating the project.
+Furthermore, I began thinking about how to design the mounting blocks for which the pulleys will hold onto. This will be a challenge since there is only one mounting hole for these end blocks, so I will have to come up with a design that is somehow rather rigid in spite of that.
 
 **Time spent: 5h**
 
