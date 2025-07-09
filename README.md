@@ -8,7 +8,7 @@ it serves as a powerful tool to accelerate piano mastery.
 
 Another point is that anthropomorphic robotic hands could serve as a remote means for individuals to connect with each other. Even in isolation, pianists would be able to connect with others, potentially teleoperating the robotic hand to play with others. Moreover, this teleoperation could potentially be saved locally on the arm itself, enabling the widespread education and demonstration of how certain pieces may be played.
 
-**Importantly, this project does not intend to replace human pianists. It simply serves as an aid for them to improve and dive deeper into their craft.**
+*Importantly, this project does not intend to replace human pianists. It simply serves as an aid for them to improve and dive deeper into their craft.*
 
 # Bill of Materials
 | PART	| QTY. |
