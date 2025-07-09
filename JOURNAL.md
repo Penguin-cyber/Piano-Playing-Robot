@@ -203,3 +203,11 @@ I also updated the hand CAD to utilize the board I had created, simplifying wiri
 Finally, I did some testing with the servos I had already purchased, just testinng to make sure that there's no faulty hardware and that the ids work (since that is something new to me with serial bus servos). Ultimately, I was able to get it working, so I can proceed with my designs with more confidence. All that's left is to create the structure that the pulley pulls on, and I can begin creating the project.
 
 **Total time spent: 60h**
+
+# July 8: Linear slide end blocks
+
+Today, I created the end blocks on the linear slide that the pulley can attach to. I made sure that the shafts were ratcheted, meaning that I could tension the pulleys freely. This ensures that there is the correct amount of slack in the strings. Now I am done with the blocks, I am done with all of the parts
+
+![image](https://github.com/user-attachments/assets/f6dca29b-4c14-4517-bfa3-c9f7565c4668)
+
+**Total time spent: 63h**
