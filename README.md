@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/263ecef6-a410-4c2d-8d3d-c0130dc222fb)# Introduction
+# Introduction
 As someone who grew up playing the piano, I sometimes wish I could learn it more easily. Specifically, sometimes it would be helpful to have a physical example of how to play specific passages, even without a teacher. Hence, I came up with this idea. There are many interesting ways robotic hands could be helpful to pianists. Although there are methods by which the piano can be played autonomously, these methods do not involve anthropomorphism.
 
 Anthropomorphic robotic hands would provide an accurate reference that pianists
@@ -27,6 +27,7 @@ Another point is that anthropomorphic robotic hands could serve as a remote mean
 
 ## Base Arm
 
+![image](https://github.com/user-attachments/assets/263ecef6-a410-4c2d-8d3d-c0130dc222fb)
 ![image](https://github.com/user-attachments/assets/ca8c7f99-3adc-41d9-8793-868ca27448de)
 ![image](https://github.com/user-attachments/assets/42ff368a-053b-4a08-9cae-49a9ca1fbb5c)
 ![image](https://github.com/user-attachments/assets/adb80203-94a7-4115-8246-a2565e7abe31)
