@@ -1,8 +1,9 @@
 ---
-title: Anthropomorphic, Piano-Playing Robot
-author: MengYang Yu
-description: A robot that plays the piano using an anthropomorphic robotic hand.
-created_at: 2025-06-08
+Title: Anthropomorphic, Piano-Playing Robot
+Author: MengYang Yu
+Description: A robot that plays the piano using an anthropomorphic robotic hand.
+Created_at: 2025-06-08
+Total_Time: 63 hours
 ---
 # June 8: Started designing the forearm
 
@@ -14,8 +15,7 @@ For packaging purposes, I may have to design a PCB that combines six serial port
 
 ![image](https://github.com/user-attachments/assets/7a6dc6b0-0b42-465f-9717-187fc9a0de47)
 
-
-**Total time spent: 2h**
+**Time spent: 2h**
 
 # June 10: Started designing the PCB
 
@@ -23,8 +23,7 @@ Today, I worked on a custom PCB to connect the six serial bus ports in parallel.
 
 ![image](https://github.com/user-attachments/assets/e3d0eafd-50e9-4686-8e96-c5a1c3f2da38)
 
-
-**Total time spent: 3:30h**
+**Time spent: 1:30h**
 
 # June 11: Finished the PCB & further planning for arm
 
@@ -33,7 +32,7 @@ Today, I worked on finishing the PCB. Again, I aimed to optimize the size of the
 ![image](https://github.com/user-attachments/assets/a733877f-92f3-4093-b2b5-5310a6aac6b0)
 ![image](https://github.com/user-attachments/assets/b75618a9-2299-4cc6-899a-4085b383db84)
 
-**Total time spent: 6h**
+**Time spent: 2:30h**
 
 # June 16: Finished drafting the profiles of the arm & started designing the pulley
 
@@ -42,7 +41,7 @@ Today, I worked on the profiles of the arm. I have the layout complete now, and 
 ![image](https://github.com/user-attachments/assets/5bc5c8be-2253-42c0-af8d-14ed29e630b2)
 
 
-**Total time spent: 8h**
+**Time spent: 2h**
 
 # June 17: Cadding pulley
 
@@ -51,7 +50,7 @@ Today, I worked on cadding the pulley. I mapped out the mastermodel for the pull
 ![image](https://github.com/user-attachments/assets/58b6c786-c8f6-425c-b363-1e2d353472fd)
 ![image](https://github.com/user-attachments/assets/dfc3b863-40b9-4c94-be74-ac69d5588341)
 
-**Total time spent: 10h**
+**Time spent: 2h**
 
 # June 18: Cadding pulley cont. and tendons
 
@@ -61,7 +60,7 @@ Today, I finished cadding the pulley by extruding the top half and creating the 
 ![image](https://github.com/user-attachments/assets/c45f7803-0b67-432a-b778-371ad756b947)
 ![image](https://github.com/user-attachments/assets/f0b4ae17-304e-4f24-8d18-2a1e55686434)
 
-**Total time spent: 15h**
+**Time spent: 5h**
 
 # June 19: Cadding forearm
 
@@ -70,7 +69,7 @@ Today, I extruded the parts of the arm and refined a bit of the design. Naturall
 ![image](https://github.com/user-attachments/assets/30cd9d10-9a5f-4f10-b101-21f32eea93c1)
 ![image](https://github.com/user-attachments/assets/9e60b94c-6ba1-4113-84b0-da294ade1f9f)
 
-**Total time spent: 19h**
+**Time spent: 4h**
 
 # June 20: Creating forearm assembly and main assembly
 
@@ -79,7 +78,7 @@ Today, I created the assemblies for the forearm and the main assembly. This was 
 ![image](https://github.com/user-attachments/assets/2045e586-b537-4750-b41b-75421f2c29b5)
 ![image](https://github.com/user-attachments/assets/b7e1df36-3af1-4300-9128-98d04e1513bc)
 
-**Total time spent: 21h**
+**Time spent: 2h**
 
 # June 21: Designing the pivot gearbox
 
@@ -95,15 +94,15 @@ Based on my experience, I ensured that I used the rated torque and moving torque
 
 ![image](https://github.com/user-attachments/assets/d7bdec46-d9c0-402f-808c-132af56269cd)
 
-**Total time spent: 25h**
+**Time spent: 4h**
 
-# June 23: Base arm and lienar slide actuation
+# June 23: Base arm and linear slide actuation
 
 Today, I looked at how I might actuate the lateral movement of the arm and generally how the base of the arm might look. I think I will go with a linear slide in tandem with a pulley system. This is documented on my document, but essentially it involves a spool on a servo that is connected to two sets of string. Both strings will have enough length to span the linear slide, and when the servo turns in one direction, the strings will spool or despool correspondingly, pulling the chassis to the respective ends of the slide. I will flesh this out further after adding the arm, since a gearbox may need to be included depending on the torque required.
 
 ![image](https://github.com/user-attachments/assets/0d2ac032-7442-441c-a735-2611c325f0c5)
 
-**Total time spent: 29h**
+**Time spent: 4h**
 
 # June 24: Gearbox and base arm cad
 
@@ -117,7 +116,7 @@ An area I struggled with was the gearbox. Since I decided on using dead axles fo
 
 ![image](https://github.com/user-attachments/assets/83c557e4-c3fa-4e2e-90d5-28a397aac3e5)
 
-**Total time spent: 35h**
+**Time spent: 6h**
 
 # June 27: Power considerations and base arm changes
 
@@ -139,7 +138,7 @@ These changes were reflected in the base arm sketches.
 
 ![image](https://github.com/user-attachments/assets/3c58090d-ac61-4cb1-b024-2e45e7616bbc)
 
-**Total time spent: 38h**
+**Time spent: 3h**
 
 # June 29: Extrusion and changes
 
@@ -156,7 +155,7 @@ Another thing I had to figure out was how to incorporate a bearing on the side w
 
 ![image](https://github.com/user-attachments/assets/21057cfb-4e72-44c5-9c67-25bd9f380814)
 
-**Total time spent: 45h**
+**Time spent: 7h**
 
 # July 3: Finishing assembly and updating main assembly
 
@@ -169,7 +168,7 @@ I also made the 60T gear a separate part that can be attached by bolts. This way
 
 ![image](https://github.com/user-attachments/assets/d29890eb-82d7-4963-b1b3-2b2fc7260f04)
 
-**Total time spent: 51h**
+**Time spent: 6h**
 
 # July 4: Determining slide and pulley size
 
@@ -187,7 +186,7 @@ Under the assumption that drylin® W pillow block WJ200QM-01s will be used, whic
 
 Hence, with a pulley of OD 3cm, the system will reach an acceleration of approximately 3.75 ms^-2, which will be more than adequate. High acceleration is essential for this project, so I will try to keep the pulley OD as small as possible to increase the acceleration of the system.
 
-**Total time spent: 55h**
+**Time spent: 4h**
 
 # July 7: Linear slide CAD, creating double pulley, and testing servos
 
@@ -202,12 +201,14 @@ I also updated the hand CAD to utilize the board I had created, simplifying wiri
 
 Finally, I did some testing with the servos I had already purchased, just testinng to make sure that there's no faulty hardware and that the ids work (since that is something new to me with serial bus servos). Ultimately, I was able to get it working, so I can proceed with my designs with more confidence. All that's left is to create the structure that the pulley pulls on, and I can begin creating the project.
 
-**Total time spent: 60h**
+**Time spent: 5h**
 
 # July 8: Linear slide end blocks
 
-Today, I created the end blocks on the linear slide that the pulley can attach to. I made sure that the shafts were ratcheted, meaning that I could tension the pulleys freely. This ensures that there is the correct amount of slack in the strings. Now I am done with the blocks, I am done with all of the parts
+Today, I created the end blocks on the linear slide that the pulley can attach to. I made sure that the shafts were ratcheted, meaning that I could tension the pulleys freely. This ensures that there is the correct amount of slack in the strings. Now I am done with the blocks, I am done with all of the parts.
 
 ![image](https://github.com/user-attachments/assets/f6dca29b-4c14-4517-bfa3-c9f7565c4668)
 
-**Total time spent: 63h**
+A concern that may arise is tipping. Since the center of mass of the system is not directly above the rail (which is the system's contact point to the ground), there is a chance that the entire arm might tip over. While I find that this is unlikely, given the proximity of the COM to the rail, it is still possible. However, a simple solution may be implemented, wherein I simply tweek the design of the linear slide blocks to house weights, moving the COM closer to the rail and decreasing the likelihood of it tipping.
+
+**Time spent: 3h**
