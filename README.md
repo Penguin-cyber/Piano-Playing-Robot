@@ -1,5 +1,6 @@
 # Introduction
-As someone who grew up playing the piano, I sometimes wish I could learn it more easily. Specifically, sometimes it would be helpful to have a physical example of how to play specific passages, even without a teacher. Hence, I came up with this idea. There are many interesting ways robotic hands could be helpful to pianists. Although there are methods by which the piano can be played autonomously, these methods do not involve anthropomorphism.
+
+As someone who grew up playing the piano, I sometimes wish I could learn it more easily. Specifically, sometimes it would be helpful to have a physical example of how to play specific passages, even without a teacher. Hence, I came up with this idea: an anthropomorphic, piano-playing robot. There are many interesting ways robotic hands could be helpful to pianists. Although there are methods by which the piano can be played autonomously, these methods do not involve anthropomorphism.
 
 Anthropomorphic robotic hands would provide an accurate reference that pianists
 could use when learning various pieces. They would provide excellent utility for pianists
@@ -9,6 +10,10 @@ it serves as a powerful tool to accelerate piano mastery.
 Another point is that anthropomorphic robotic hands could serve as a remote means for individuals to connect with each other. Even in isolation, pianists would be able to connect with others, potentially teleoperating the robotic hand to play with others. Moreover, this teleoperation could potentially be saved locally on the arm itself, enabling the widespread education and demonstration of how certain pieces may be played.
 
 *Importantly, this project does not intend to replace human pianists. It simply serves as an aid for them to improve and dive deeper into their craft.*
+
+# Wiring Diagram
+
+<img width="1228" height="867" alt="image" src="https://github.com/user-attachments/assets/cf6f467e-0541-4af5-bd2b-52fe8475fbb4" />
 
 # Images
 
