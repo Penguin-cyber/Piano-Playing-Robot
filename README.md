@@ -11,6 +11,8 @@ Another point is that anthropomorphic robotic hands could serve as a remote mean
 
 *Importantly, this project does not intend to replace human pianists. It simply serves as an aid for them to improve and dive deeper into their craft.*
 
+The robot has an arm with 2 degrees of freedom (DOF), which rests on a rail with one DOF. Moreover, the hand itself has 10 DOF—that is, 2 DOF per finger, enabling each finger to yaw and pitch. In total, the system has 13 DOF, requiring 13 servo motors for actuation.
+
 # Images
 
 ![image](https://github.com/user-attachments/assets/7a2bcd26-b053-459e-8cd6-87538693d182)
