@@ -1,6 +1,4 @@
 import time
-import serial
-
 
 class servo:
     """
@@ -253,31 +251,3 @@ class servo:
 
         self.cont_move(0)
 
-
-if __name__ == '__main__':
-    ser = serial.Serial('COM3', 1000000)
-
-    s1 = servo(1, ser)
-    s2 = servo(2, ser)
-    s3 = servo(3, ser)
-    s4 = servo(4, ser)
-    s5 = servo(5, ser)
-    s6 = servo(6, ser)
-    s7 = servo(7, ser)
-    s8 = servo(8, ser)
-    s9 = servo(9, ser)
-    s10 = servo(10, ser)
-    s11 = servo(11, ser)
-    s12 = servo(12, ser)
-    time.sleep(1)
-    s12.cont_mode()
-
-    s12.cont_move(1000)
-    time.sleep(1)
-    s12.cont_stop()
-    s12.cont_move(100)
-    time.sleep(2)
-    s12.cont_stop()
-    s12.cont_move(-1000)
-    time.sleep(0.75)
-    s12.cont_stop()
